@@ -3,7 +3,7 @@ package blinov1;
 import java.io.*;
 import java.net.Socket;
 
-/*Get messages to Client 2*/
+/*Get messages from Client 1*/
 
 public class Client2 {
     public static void main(String[] args) {
