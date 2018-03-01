@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<breakfast_menu>
+    <food type="desert">
+        <name>tort</name>
+        <description>sweet</description>
+        <price>$100,00</price>
+        <calories>2000</calories>
+    </food>
+    <food type="lunch">
+        <name>steak</name>
+        <description>meal</description>
+        <price>$50,00</price>
+        <calories>3000</calories>
+    </food>
+    <food type="vegan">
+        <name>tomato</name>
+        <description>mr. Pomidor</description>
+        <price>$1,00</price>
+        <calories>100</calories>
+    </food>
+</breakfast_menu>
